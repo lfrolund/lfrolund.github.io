@@ -1,1 +1,0 @@
-I am a second year Ph.D. student in agricultural and resource economics at the University of California, Berkeley. I am interested in development economics and have previously worked on agricultural development, electrification, and intrahousehold dynamics.
