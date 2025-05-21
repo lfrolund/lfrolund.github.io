@@ -1,0 +1,73 @@
+* help scheme files
+* which  scheme-mine.scheme
+
+
+        #include s2color
+
+		
+        color background  white
+
+		color p1			"153 0 0"			//	Red
+		color p2			"235 143 0"		// Yellow
+		color p3			"88 1 1 "			// Dark Red
+		color p4			"233 74 0"			// Orange
+		color p5			"102 102 102"		// Grey
+		color p6			"0 190 234"			// Light Blue
+		color p7			"60 60 60"			// Dark Grey/Greenish
+		color p8			"10 100 100"			// Teal
+		color p9			"0 0 0"			// Black
+		color p10			"175 190 190"			// Light Bluish Gray
+		color p11			"255 115 240"			// Light Magenta
+		color p12			"115 210 100"			// Green
+
+
+		
+		color p1dot			"153 0 0"%40			//	Red
+		color p2dot			"235 143 0"%40		// Yellow
+		color p3dot			"88 1 1 "%40		// Dark Red
+		color p4dot			"233 74 0"%40			// Orange
+		color p5dot			"102 102 102"%40		// Grey
+		color p6dot			"0 190 234"%40			// Light Blue
+		color p7dot			"60 60 60"%40			// Dark Grey/Greenish
+		color p8dot			"10 100 100"%40			// Teal
+		color p9dot			"0 0 0"			// Black
+		color p10dot			"175 190 190"			// Light Bluish Gray
+		color p11dot			"255 115 240"			// Light Magenta
+		color p12dot			"115 210 100"			// Green
+		color xyline        black
+		linewidth xyline    thin
+		
+		
+
+		
+// Notes aligned left
+clockdir note_position       7
+yesno note_span              yes
+
+
+		symbolsize p large
+		
+		color histogram      "169 0 0"%60
+		color histogram_line "88 1 1"
+		linewidth histogram   thin
+
+		
+		// Text grey
+color axisline     "102 102 102"	
+color tick         "102 102 102"	
+color minortick    "102 102 102"	
+color axis_title    "102 102 102"
+color label          "102 102 102"
+color key_label       "102 102 102"
+color tick_label     "102 102 102"
+color tick_biglabel    "102 102 102"
+
+color heading          "0 0 0"		
+color textbox      "102 102 102"
+
+
+
+linewidth axisline   medium
+linewidth tick        medium
+linewidth minortick    thin
+

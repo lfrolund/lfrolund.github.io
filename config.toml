@@ -1,0 +1,19 @@
+relativeURLs = true
+title = "Jonathan Old"
+theme = ["academimal"]
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" , "make.sh"]
+
+[params]
+    shortbio = "Economics Ph.D. student at UC Berkeley. Interested in political economy, development economics, and international trade."
+    logo = "jold_portrait_ucv.jpg" 
+    author = "Jonathan Old"
+    sitename = "Personal website of Jonathan Old"
+    
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  
